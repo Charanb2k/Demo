@@ -1,0 +1,14 @@
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Analytics.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Calabash.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/DemoiOS.exe
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.iOS.Bindings.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Analytics.iOS.Bindings.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.Azure.Mobile.Crashes.dll

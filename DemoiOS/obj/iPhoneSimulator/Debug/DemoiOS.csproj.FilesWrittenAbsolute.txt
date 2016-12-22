@@ -1,0 +1,10 @@
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/DemoiOS.exe.mdb
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/DemoiOS.exe
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/DemoiOS.exe
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/DemoiOS.exe.mdb
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Calabash.dll

@@ -1,0 +1,15 @@
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/DemoiOS.exe.mdb
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/DemoiOS.exe
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/DemoiOS.exe
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/DemoiOS.exe.mdb
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/chasingh/Projects/DemoiOS/DemoiOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.iOS.Bindings.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/chasingh/Projects/DemoiOS/DemoiOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Analytics.iOS.Bindings.dll
