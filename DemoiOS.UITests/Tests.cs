@@ -27,6 +27,14 @@ namespace DemoiOS.UITests
 
 			Assert.IsTrue (results.Any ());
 		}
+
+		[Test]
+		public void ButtonDisplayed ()
+		{
+			AppResult [] result= app.WaitForElement (c => c.Class ("UIButton").Marked("Click here!"));
+			app.Screenshot ("Button");
+			Assert.IsTrue (result.Any ());
+		}
 	}
 }
 
