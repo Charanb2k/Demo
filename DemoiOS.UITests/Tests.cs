@@ -24,8 +24,6 @@ namespace DemoiOS.UITests
 		{
 			AppResult [] results = app.WaitForElement (c => c.Child ("UIView"));
 			app.Screenshot ("First screen.");
-
-			Assert.IsTrue (results.Any ());
 		}
 
 		[Test]
@@ -33,7 +31,6 @@ namespace DemoiOS.UITests
 		{
 			AppResult [] result= app.WaitForElement (c => c.Class ("UIButton").Marked("Click here!"));
 			app.Screenshot ("Button");
-			Assert.IsTrue (result.Any ());
 		}
 	}
 }
